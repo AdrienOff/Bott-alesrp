@@ -1,0 +1,16 @@
+{
+  "name": "alesrp",
+  "version": "0.0.1",
+  "description": "bot comende",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrien",
+  "license": "ISC"
+}
